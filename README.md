@@ -22,3 +22,7 @@
   - Définir un CDC selon IEEE
   - Savoir évaluer un CDC
 
+- [Méthodes Classiques](Method.md)
+  - Cascade / waterfall
+  - Cycle en V
+  - Semi-itératif
